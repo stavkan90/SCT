@@ -1,0 +1,32 @@
+{
+  "/": [
+    "Info for Players",
+    "ttrpgs"
+  ],
+  "/ttrpgs": [
+    "Arcanor"
+  ],
+  "/ttrpgs/Arcanor": [
+    "Magic Items",
+    "Players",
+    "Regions of Arcanor"
+  ],
+  "/ttrpgs/Arcanor/Magic Items": [
+    "Amulet of Life (Cursed)",
+    "Crown of Bones (Cursed)",
+    "Eye of Zephyra (Cursed)",
+    "Umbrafang (Cursed)",
+    "Xaldrin's Skin (Cursed)"
+  ],
+  "/ttrpgs/Arcanor/Players": [
+    "Astrid",
+    "Emedro",
+    "Iligan",
+    "Phil Losworth",
+    "Skywrath",
+    "Slyrak"
+  ],
+  "/ttrpgs/Arcanor/Regions of Arcanor": [
+    "Arcanor Empire"
+  ]
+}
