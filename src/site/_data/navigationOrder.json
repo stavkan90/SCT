@@ -1,13 +1,13 @@
 {
   "/": [
     "Sessions",
-    "Arcanor Lore"
+    "Arcanor"
   ],
   "/Sessions": [
     "Info for Players",
-    "Players"
+    "Characters"
   ],
-  "/Sessions/Players": [
+  "/Sessions/Characters": [
     "Astrid",
     "Emedro",
     "Iligan",
@@ -15,15 +15,15 @@
     "Skywrath",
     "Slyrak"
   ],
-  "/Arcanor Lore": [
+  "/Arcanor": [
     "Magic Items",
     "Regions of Arcanor"
   ],
-  "/Arcanor Lore/Magic Items": [
+  "/Arcanor/Magic Items": [
     "Eye of Zephyra (Cursed)",
     "Umbrafang (Cursed)"
   ],
-  "/Arcanor Lore/Regions of Arcanor": [
+  "/Arcanor/Regions of Arcanor": [
     "Arcanor Empire"
   ]
 }
