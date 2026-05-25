@@ -1,24 +1,13 @@
 {
   "/": [
     "Info for Players",
-    "ttrpgs"
+    "Sessions",
+    "Arcanor Lore"
   ],
-  "/ttrpgs": [
-    "Arcanor"
+  "/Sessions": [
+    "Players"
   ],
-  "/ttrpgs/Arcanor": [
-    "Magic Items",
-    "Players",
-    "Regions of Arcanor"
-  ],
-  "/ttrpgs/Arcanor/Magic Items": [
-    "Amulet of Life (Cursed)",
-    "Crown of Bones (Cursed)",
-    "Eye of Zephyra (Cursed)",
-    "Umbrafang (Cursed)",
-    "Xaldrin's Skin (Cursed)"
-  ],
-  "/ttrpgs/Arcanor/Players": [
+  "/Sessions/Players": [
     "Astrid",
     "Emedro",
     "Iligan",
@@ -26,7 +15,15 @@
     "Skywrath",
     "Slyrak"
   ],
-  "/ttrpgs/Arcanor/Regions of Arcanor": [
+  "/Arcanor Lore": [
+    "Magic Items",
+    "Regions of Arcanor"
+  ],
+  "/Arcanor Lore/Magic Items": [
+    "Eye of Zephyra (Cursed)",
+    "Umbrafang (Cursed)"
+  ],
+  "/Arcanor Lore/Regions of Arcanor": [
     "Arcanor Empire"
   ]
 }
