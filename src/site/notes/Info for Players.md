@@ -65,7 +65,7 @@
 
 ## Map of Arcanor Empire
 
-![[Arcanor Empire.jpg \|700]]
+![Arcanor Empire.jpg](/img/user/assets/Arcanor%20Empire.jpg)
 
 ## TLDR: Story 1 Recap
 
