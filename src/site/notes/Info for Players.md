@@ -16,15 +16,8 @@
 
 ## Items
 
-| File                                                                        | Description |
-| --------------------------------------------------------------------------- | ----------- |
-| [[Arcanor/Magic Items/Amulet of Life (Cursed)\|Amulet of Life (Cursed)]] | \-          |
-| [[Arcanor/Magic Items/Crown of Bones (Cursed)\|Crown of Bones (Cursed)]] | \-          |
-| [[Arcanor/Magic Items/Eye of Zephyra (Cursed)\|Eye of Zephyra (Cursed)]] | \-          |
-| [[Arcanor/Magic Items/Umbrafang (Cursed)\|Umbrafang (Cursed)]]           | \-          |
-| [[Arcanor/Magic Items/Xaldrin's Skin (Cursed)\|Xaldrin's Skin (Cursed)]] | \-          |
-
-{ .block-language-dataview}
+[[Arcanor/Magic Items/Eye of Zephyra (Cursed)\|Eye of Zephyra (Cursed)]]
+[[Arcanor/Magic Items/Umbrafang (Cursed)\|Umbrafang (Cursed)]]
 
 ## NPCs met
 | File                                                         | Description                                                                        |
