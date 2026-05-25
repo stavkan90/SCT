@@ -4,15 +4,15 @@
 
 Old elf, while long hair, leather armor, slim
 
-Θυμα διασπορας των elf λογο Τιτανα, εγινε κοινος εγκληματιας για να επιβειωσει, αργοτερα πιο εξηδικευμενος και με τα χρονια εγινε scavenger των νεκροτοπων για loot καθε ειδους αλλα και για βρει απαντησεις για το τι εχει συμβει. Τωρα πια στο λυκοφως της ζωης του δεν πιστευει σε εναν καλυτερο κοσμο χωρις undead η στην ενοποιηση χαμενων περιοχων αλλα βλεπει αυτη την αποστολη σαν μια ευκαιρια για εκδικηση απενατι στον [[Arcanor Lore/Deities/Mortuumar\|Mortuumar]].
+Θυμα διασπορας των elf λογο Τιτανα, εγινε κοινος εγκληματιας για να επιβειωσει, αργοτερα πιο εξηδικευμενος και με τα χρονια εγινε scavenger των νεκροτοπων για loot καθε ειδους αλλα και για βρει απαντησεις για το τι εχει συμβει. Τωρα πια στο λυκοφως της ζωης του δεν πιστευει σε εναν καλυτερο κοσμο χωρις undead η στην ενοποιηση χαμενων περιοχων αλλα βλεπει αυτη την αποστολη σαν μια ευκαιρια για εκδικηση απενατι στον [[Arcanor/Deities/Mortuumar\|Mortuumar]].
 
-Σε κάποιο απο τα skirmishes σου στην [[Arcanor Lore/Regions of Arcanor/Helm's Reach/Caedun\|Caedun]], βρέθηκες σε μια βιβλιοθήκη. Θεώρησες οτι μπορείς να βρεις πληροφορίες για το τι σκατά είναι ο [[Arcanor Lore/Deities/Mortuumar\|Mortuumar]]. Βρήκες λίγα πράγματα.
+Σε κάποιο απο τα skirmishes σου στην [[Arcanor/Regions of Arcanor/Helm's Reach/Caedun\|Caedun]], βρέθηκες σε μια βιβλιοθήκη. Θεώρησες οτι μπορείς να βρεις πληροφορίες για το τι σκατά είναι ο [[Arcanor/Deities/Mortuumar\|Mortuumar]]. Βρήκες λίγα πράγματα.
     
-1. texts speak of an ancient empire that grew too powerful and arrogant. The rulers tried to tame death, awakening Mortuumar as an unintended consequence. [[Arcanor Lore/Deities/Mortuumar\|Mortuumar]], in turn, destroyed the empire, leaving nothing but ruins.
+1. texts speak of an ancient empire that grew too powerful and arrogant. The rulers tried to tame death, awakening Mortuumar as an unintended consequence. [[Arcanor/Deities/Mortuumar\|Mortuumar]], in turn, destroyed the empire, leaving nothing but ruins.
    
-2. Scholars who studied ancient texts and ruins believe [[Arcanor Lore/Deities/Mortuumar\|Mortuumar]] has appeared periodically throughout history, each time causing great devastation. Often conclude that it is a cyclical force, destined to return and wreak havoc at intervals.
+2. Scholars who studied ancient texts and ruins believe [[Arcanor/Deities/Mortuumar\|Mortuumar]] has appeared periodically throughout history, each time causing great devastation. Often conclude that it is a cyclical force, destined to return and wreak havoc at intervals.
    
-3. Οι scholars είχαν βρει μάλιστα και ένα artifact που πίστευαν ότι θα βοηθούσε ενάντια στον [[Arcanor Lore/Deities/Mortuumar\|Mortuumar]]. Αλλά δεν φάνηκε να βοηθάει όταν πέρασε μέσα από την πόλη...
+3. Οι scholars είχαν βρει μάλιστα και ένα artifact που πίστευαν ότι θα βοηθούσε ενάντια στον [[Arcanor/Deities/Mortuumar\|Mortuumar]]. Αλλά δεν φάνηκε να βοηθάει όταν πέρασε μέσα από την πόλη...
 
 
 ```custom-frames
