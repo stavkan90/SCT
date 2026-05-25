@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/info-for-players/","tags":["gardenEntry"],"dg-note-properties":{"type":null,"faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-14","description":"","race":null,"gender":null,"class":null}}
 ---
 
-# [[Info for Players\|Info for Players]]
-
-## Players
+## Characters
 | File                                                | Description                                                           |
 | --------------------------------------------------- | --------------------------------------------------------------------- |
 | [[Arcanor/Players/Astrid\|Astrid]]               | Human Barbarian, muscular build, red hair and scars,                  |
