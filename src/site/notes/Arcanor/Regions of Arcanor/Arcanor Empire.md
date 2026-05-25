@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/arcanor/regions-of-arcanor/arcanor-empire/","dg-note-properties":{"type":null,"faction":null,"location":"Arcanor","world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"","race":null,"gender":null,"class":null,"Kingdom":null}}
 ---
 
-# [[Arcanor/Regions of Arcanor/Arcanor Empire\|Arcanor Empire]]
-
 Το έτος 0 ο **Tiberius Arcanor I** ενώνει τα 12 βασιλεία κάτω από ένα στέμμα και στεφθετε αυτοκράτορας της νέας αυτοκρατορίας του [[Arcanor Empire \| Arcanor]]. Σήμερα βρισκόμαστε στο έτος 3317 όπου το σχίσμα των βασιλείων είναι ένα έντονο πολιτικό θέμα που προκαλεί αναστάτωση στις μεγάλες πόλεις. 
 
-Το [[Arcanor/Regions of Arcanor/Helm's Reach/Helm's Reach\|Arcanor/Regions of Arcanor/Helm's Reach/Helm's Reach]] καθώς και τα δυο γειτονικά βασιλεια, το **[[Arcanor/Regions of Arcanor/Glimmerwald/Glimmerwald\|Arcanor/Regions of Arcanor/Glimmerwald/Glimmerwald]] ανατολικά και το [[Arcanor/Regions of Arcanor/Frostmoor/Frostmoor\|Arcanor/Regions of Arcanor/Frostmoor/Frostmoor]] βόρεια** και των 2, πλήττονται από μια απέθαντη απειλή. Πριν χιλιάδες χρόνια εμφανίστηκε ξαφνικά ένας κολοσσιαίος νεκροζωντανος τιτάνας, που οι τότε μελετητές ονόμασαν [[Arcanor/Deities/Mortuumar\|Mortuumar]]. 
+Το [[Arcanor/Regions of Arcanor/Helm's Reach/Helm's Reach\|Helm's Reach]] καθώς και τα δυο γειτονικά βασιλεια, το [[Arcanor/Regions of Arcanor/Glimmerwald/Glimmerwald\|Glimmerwald]] ανατολικά και το [[Arcanor/Regions of Arcanor/Frostmoor/Frostmoor\|Frostmoor]] βόρεια και των 2, πλήττονται από μια απέθαντη απειλή. Πριν χιλιάδες χρόνια εμφανίστηκε ξαφνικά ένας κολοσσιαίος νεκροζωντανος τιτάνας, που οι τότε μελετητές ονόμασαν [[Arcanor/Deities/Mortuumar\|Mortuumar]]. 
 
 O [[Arcanor/Deities/Mortuumar\|Mortuumar]] **περιφέρεται** σε μια τεράστια έκταση και αφήνει μόνο χάος στο πέρασμα του. Πόλεις και χωριά που βρίσκονται στο διάβα του καταλήγουν συντρίμμια. Τα **ζώα και οι άνθρωποι μεταμορφώνονται σε νεκροζώντανα** πλάσματα και οι νεκροί σηκώνονται από τους τάφους τους. (Για αυτό και το έθιμο πλέον είναι να καίνε τους νεκρούς). Αυτό όμως δεν είναι όλο, ο τιτάνας αποπνέει μια νεκρική αύρα σε απόσταση αρκετών χιλιομέτρων με αποτέλεσμα η γη να νεκρώνει και να είναι μη εκμεταλλεύσιμη. Όλη αυτή η περιοχή ονομάζεται **«κατεστραμμένη γη»**. Κατά τους αιώνες πολλοί θαρραλέοι βλάκες έχουν προσπαθήσει να τον πολεμήσουν αλλά προφανώς έγιναν και οι ίδιοι απέθαντοι.
 
