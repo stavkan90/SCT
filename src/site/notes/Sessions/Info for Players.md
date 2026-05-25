@@ -3,13 +3,19 @@
 ---
 
 ## Characters
-| File | Description |
-| ---- | ----------- |
+| File                                                 | Description                                                           |
+| ---------------------------------------------------- | --------------------------------------------------------------------- |
+| [[Sessions/Players/Astrid\|Astrid]]               | Human Barbarian, muscular build, red hair and scars,                  |
+| [[Sessions/Players/Emedro\|Emedro]]               | Human Sorcerer, no hair, μαντίλι στο καιφάλι, white eyes.             |
+| [[Sessions/Players/Iligan\|Iligan]]               | Old elf rogue, while long hair, leather armor, slim                   |
+| [[Sessions/Players/Phil Losworth\|Phil Losworth]] | Urban Bounty Hunter from Othengrad                                    |
+| [[Sessions/Players/Skywrath\|Skywrath]]           | Slyrak's trusty companion                                             |
+| [[Sessions/Players/Slyrak\|Slyrak]]               | Aasimar Paladin, heavy armor, square jaw, blue eyes, blonde long hair |
 
 { .block-language-dataview}
 
 ## Items
-
+ 
 [[Arcanor/Magic Items/Eye of Zephyra (Cursed)\|Eye of Zephyra (Cursed)]]
 [[Arcanor/Magic Items/Umbrafang (Cursed)\|Umbrafang (Cursed)]]
 
