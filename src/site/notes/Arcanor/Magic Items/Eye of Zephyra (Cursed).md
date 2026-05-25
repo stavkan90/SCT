@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/magic-items/eye-of-zephyra-cursed/","dg-note-properties":{"name":"Eye of Zephira","type":"Magic Item","attunement":"Required","rarity":"Artifact","tags":null,"requires":null,"source":"","share_link":"https://share.note.sx/0z67svrx#r7gMD1kKfxTOJZJUHaaO4hQAtv6IXLUAEaSl9+piaXI","share_updated":"2026-05-24T17:53:55+03:00"}}
+{"dg-publish":true,"permalink":"/arcanor/magic-items/eye-of-zephyra-cursed/","dg-note-properties":{"name":"Eye of Zephira","type":"Magic Item","attunement":"Required","rarity":"Artifact","tags":null,"requires":null,"source":""}}
 ---
-
-# [[Arcanor/Magic Items/Eye of Zephyra (Cursed)\|Eye of Zephyra (Cursed)]]
 
 _Wondrous Item , Requires Attunement_
 _The sapphire is cold and oily. Looking into it feels like falling into a storm._

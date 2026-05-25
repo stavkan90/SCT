@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/players/phil-losworth/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Urban Bounty Hunter from Othengrad","race":null,"gender":null,"class":null,"ac":17,"hp":94,"modifier":"4","level":"9","cssclasses":null,"share_link":"https://share.note.sx/oxpiqrq9#8SSpXtUh2z6auKTbAZ7QitNHPLdlPy4mh48W6unMjIE","share_updated":"2025-07-01T09:11:29+03:00"}}
+{"dg-publish":true,"permalink":"/arcanor/players/phil-losworth/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Urban Bounty Hunter from Othengrad","race":null,"gender":null,"class":null,"ac":17,"hp":94,"modifier":"4","level":"9","cssclasses":null}}
 ---
-
-[[Info for Players \| <Back]]
-# [[Arcanor/Players/Phil Losworth\|Phil Losworth]]
 
 Has a dog Rupert
 

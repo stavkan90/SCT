@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/players/astrid/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Human Barbarian, muscular build, red hair and scars,","race":null,"gender":null,"class":null,"ac":14,"hp":104,"modifier":"2","level":"9","share_link":"https://share.note.sx/2t97hhcj#qdv5OfbUGIHuaoNHXvrkrSKQ35Gj+xOPK03dha8iDTs","share_updated":"2025-06-28T09:43:27+03:00","cssclasses":null}}
+{"dg-publish":true,"permalink":"/arcanor/players/astrid/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Human Barbarian, muscular build, red hair and scars,","race":null,"gender":null,"class":null,"ac":14,"hp":104,"modifier":"2","level":"9","cssclasses":null}}
 ---
-
-[[Info for Players \| <Back]]
-# [[Arcanor/Players/Astrid\|Astrid]]
 
 Human, muscular build, red hair and scars.
 

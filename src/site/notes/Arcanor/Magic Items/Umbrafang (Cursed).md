@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/magic-items/umbrafang-cursed/","dg-note-properties":{"name":"Umbrafang","type":"Magic Item","attunement":"Required","rarity":"Artifact","tags":[],"requires":null,"source":"","share_link":"https://share.note.sx/9zt0ylcq#wFVtnrr8IkxbAal8DJ2bBlGKuqUjvY5sIreMQjcYnOU","share_updated":"2026-05-24T17:53:50+03:00"}}
+{"dg-publish":true,"permalink":"/arcanor/magic-items/umbrafang-cursed/","dg-note-properties":{"name":"Umbrafang","type":"Magic Item","attunement":"Required","rarity":"Artifact","tags":[],"requires":null,"source":""}}
 ---
-
-# [[Arcanor/Magic Items/Umbrafang (Cursed)\|Umbrafang (Cursed)]]
 
 _Wondrous Item, Requires Attunement_
 _The sword description._

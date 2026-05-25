@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/players/iligan/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Old elf rogue, while long hair, leather armor, slim","race":null,"gender":null,"class":null,"ac":17,"hp":76,"modifier":"9","level":"9","share_link":"https://share.note.sx/ajhp8ytm#U2iqMYulKoPi6MSxgxiT+iW2NniUOU7GcRscFL1SUso","share_updated":"2025-06-27T11:00:58+03:00","cssclasses":null}}
+{"dg-publish":true,"permalink":"/arcanor/players/iligan/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Old elf rogue, while long hair, leather armor, slim","race":null,"gender":null,"class":null,"ac":17,"hp":76,"modifier":"9","level":"9","cssclasses":null}}
 ---
-
-[[Info for Players \| <Back]]
-# [[Arcanor/Players/Iligan\|Iligan]]
 
 Old elf, while long hair, leather armor, slim
 

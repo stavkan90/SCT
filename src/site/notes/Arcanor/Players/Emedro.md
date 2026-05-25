@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/players/emedro/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Human Sorcerer, no hair, μαντίλι στο καιφάλι, white eyes.","race":null,"gender":null,"class":null,"ac":12,"hp":12,"modifier":"12","level":"12","share_link":"https://share.note.sx/guseumik#8X4Cub7Cs+jCq2YY8iIYDyEJNN0sBHU4Xcxb7z7qKlM","share_updated":"2025-06-27T11:00:48+03:00"}}
+{"dg-publish":true,"permalink":"/arcanor/players/emedro/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Human Sorcerer, no hair, μαντίλι στο καιφάλι, white eyes.","race":null,"gender":null,"class":null,"ac":12,"hp":12,"modifier":"12","level":"12"}}
 ---
-
-[[Info for Players \| <Back]]
-# [[Arcanor/Players/Emedro\|Emedro]]
 
 Right hand man of [[Arcanor/NPCs/Baron Helmfreid\|Baron Helmfreid]] or [[Arcanor/Regions of Arcanor/Helm's Reach/Helm's Keep\|Helm's Keep]]
 Black robe with purple lines and black gloves.

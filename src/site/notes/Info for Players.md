@@ -1,38 +1,67 @@
 ---
-{"dg-publish":true,"permalink":"/info-for-players/","tags":["gardenEntry"],"dg-note-properties":{"type":null,"faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-14","description":"","race":null,"gender":null,"class":null,"share_link":"https://share.note.sx/88ftc2u8#pp6QBVQKSpUVOYwJb0SDocRKlv5ObLAWtED5mZCJSAk","share_updated":"2025-07-18T19:21:10+03:00"}}
+{"dg-publish":true,"permalink":"/info-for-players/","tags":["gardenEntry"],"dg-note-properties":{"type":null,"faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-14","description":"","race":null,"gender":null,"class":null}}
 ---
 
 # [[Info for Players\|Info for Players]]
 
 ## Players
-| File | Description |
-| ---- | ----------- |
+| File                                                | Description                                                           |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| [[Arcanor/Players/Astrid\|Astrid]]               | Human Barbarian, muscular build, red hair and scars,                  |
+| [[Arcanor/Players/Emedro\|Emedro]]               | Human Sorcerer, no hair, μαντίλι στο καιφάλι, white eyes.             |
+| [[Arcanor/Players/Iligan\|Iligan]]               | Old elf rogue, while long hair, leather armor, slim                   |
+| [[Arcanor/Players/Phil Losworth\|Phil Losworth]] | Urban Bounty Hunter from Othengrad                                    |
+| [[Arcanor/Players/Skywrath\|Skywrath]]           | Slyrak's trusty companion                                             |
+| [[Arcanor/Players/Slyrak\|Slyrak]]               | Aasimar Paladin, heavy armor, square jaw, blue eyes, blonde long hair |
 
 { .block-language-dataview}
 
 ## Items
 
-| File | Description |
-| ---- | ----------- |
+| File                                                                        | Description |
+| --------------------------------------------------------------------------- | ----------- |
+| [[Arcanor/Magic Items/Amulet of Life (Cursed)\|Amulet of Life (Cursed)]] | \-          |
+| [[Arcanor/Magic Items/Crown of Bones (Cursed)\|Crown of Bones (Cursed)]] | \-          |
+| [[Arcanor/Magic Items/Eye of Zephyra (Cursed)\|Eye of Zephyra (Cursed)]] | \-          |
+| [[Arcanor/Magic Items/Umbrafang (Cursed)\|Umbrafang (Cursed)]]           | \-          |
+| [[Arcanor/Magic Items/Xaldrin's Skin (Cursed)\|Xaldrin's Skin (Cursed)]] | \-          |
 
 { .block-language-dataview}
 
 ## NPCs met
-| File | Description |
-| ---- | ----------- |
+| File                                                         | Description                                                                        |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [[Arcanor/NPCs/Captain Ova Drul\|Captain Ova Drul]]       | "Muscular half-orc with gray skin, no hair, face tattoo"                           |
+| [[Arcanor/NPCs/Dr Alaric Thorne\|Dr Alaric Thorne]]       | mid-forties, gray hair, blue eyes with dark circles. Wears a stained leather apron |
+| [[Arcanor/NPCs/Father Eamon\|Father Eamon]]               | Human, Late 50s, brown hair with silver sides, priest of Aeloria                   |
+| [[Arcanor/NPCs/Garret\|Garret]]                           | Nervous young human, slenderm blonde hair, green eyes                              |
+| [[Arcanor/NPCs/Mayor Althea Barnes\|Mayor Althea Barnes]] | Female halfing, dark hair, black clothes                                           |
+| [[Arcanor/NPCs/Nurse Lia Craven\|Nurse Lia Craven]]       | Middle-aged, black woman, afro hair, red nurse's uniform                           |
+| [[Arcanor/NPCs/Ysolde\|Ysolde]]                           | Young human woman, plain clothes, brown hair and eyes                              |
 
 { .block-language-dataview}
 
 ## The ruling class
 
-| File | Description |
-| ---- | ----------- |
+| File                                                                           | Description                                                        |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [[Arcanor/Factions/The Rulling Class/Emperor\|Emperor]]                     | Rules all 12 kingdoms in Arcanor Empire                            |
+| [[Arcanor/Factions/The Rulling Class/High Council\|High Council]]           | The 5 advisors of the Emperor (Law, Magic, War, Religion, Economy) |
+| [[Arcanor/Factions/The Rulling Class/Regional Viceroys\|Regional Viceroys]] | 12 Αντιβασιλείς, one for each kingdom within Arcanor               |
+| [[Arcanor/Factions/The Rulling Class/Marquesses\|Marquesses]]               | Rulers of a large city and its surrounding area                    |
+| [[Arcanor/Factions/The Rulling Class/Barons\|Barons]]                       | Rulers of rural areas. A group of villages and small towns         |
+| [[Arcanor/Factions/The Rulling Class/Mayors\|Mayors]]                       | Decision makers of villages or small towns                         |
 
 { .block-language-dataview}
 
 ## Gods
-| File | Description |
-| ---- | ----------- |
+| File                                                                          | Description                        |
+| ----------------------------------------------------------------------------- | ---------------------------------- |
+| [[Arcanor/Deities/Aeloria, the Dawnbringer\|Aeloria, the Dawnbringer]]     | "sunlight, hope, healing"          |
+| [[Arcanor/Deities/Elarion, the Keeper\|Elarion, the Keeper]]               | "light, justice, protection"       |
+| [[Arcanor/Deities/Thalor, the Eternal cycle\|Thalor, the Eternal cycle]]   | "life, death, nature"              |
+| [[Arcanor/Deities/Xaldrin, the Trickster\|Xaldrin, the Trickster]]         | "Mischief, luck, change"           |
+| [[Arcanor/Deities/Zephyra, the Seer of Winds\|Zephyra, the Seer of Winds]] | "Premonitions, Visions, Prophecies |
 
 { .block-language-dataview}
 

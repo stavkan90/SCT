@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/arcanor/players/slyrak/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Aasimar Paladin, heavy armor, square jaw, blue eyes, blonde long hair","race":null,"gender":null,"class":null,"ac":20,"hp":76,"modifier":"-1","level":"9","share_link":"https://share.note.sx/sv63tfik#0aB+BR5CGWgVl6ys5kSv8sDDXcKJC1gLS08T3liAnxw","share_updated":"2025-06-27T11:01:14+03:00","cssclasses":null}}
+{"dg-publish":true,"permalink":"/arcanor/players/slyrak/","dg-note-properties":{"type":"PC","faction":null,"location":null,"world":"Arcanor","campaign":"Arcanor","date":"2025-05-09","description":"Aasimar Paladin, heavy armor, square jaw, blue eyes, blonde long hair","race":null,"gender":null,"class":null,"ac":20,"hp":76,"modifier":"-1","level":"9","cssclasses":null}}
 ---
-
-[[Info for Players \| <Back]]
-# [[Arcanor/Players/Slyrak\|Slyrak]]
 
 Plays the flute
 Aasimar, heavy armor, square jaw, blue eyes, blonde long hair
