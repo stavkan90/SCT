@@ -63,9 +63,9 @@
 
 { .block-language-dataview}
 
-## Map of Arcanor Empire
+## Playable Region
 
-![Arcanor Empire.jpg](/img/user/assets/Arcanor%20Empire.jpg)
+![assets/Playable-region.jpg](/img/user/assets/Playable-region.jpg)
 
 ## TLDR: Story 1 Recap
 
