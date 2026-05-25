@@ -1,10 +1,10 @@
 {
   "/": [
-    "Info for Players",
     "Sessions",
     "Arcanor Lore"
   ],
   "/Sessions": [
+    "Info for Players",
     "Players"
   ],
   "/Sessions/Players": [
