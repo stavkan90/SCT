@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adventures/oneshots/enter-caedun/player-info/","tags":["#inbox"],"dg-note-properties":{"type":null,"campaign":"Enter Caedun","world":"Arcanor","sessionNum":1,"location":"Caedun","date":"2025-12-08","fc-calendar":"Arcanor","fc-date":{"year":0,"month":0,"day":0},"fc-category":"Sessions","long_rest":false,"short_rest":false,"summary":"","tags":["#inbox"],"art":""}}
+{"dg-publish":true,"permalink":"/adventures/oneshots/enter-caedun/player-info/","dg-note-properties":{"type":null,"campaign":"Enter Caedun","world":"Arcanor","sessionNum":1,"location":"Caedun","date":"2025-12-08","fc-calendar":"Arcanor","fc-date":{"year":0,"month":0,"day":0},"fc-category":"Sessions","long_rest":false,"short_rest":false,"summary":"","tags":null,"art":""}}
 ---
 
 
