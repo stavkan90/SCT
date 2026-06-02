@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/arcanor/mortuumar/","dg-note-properties":{"name":"Mortuumar","size":"Titanic","type":"Aberration","location":"Helm's Reach, Frostmoor, Glimerwald","environment":"any","hp":null,"ac":null,"initiative":null,"alignment":null,"legendary":null,"lair":null,"unique":null,"cr":null,"tags":null,"source":null}}
 ---
 
-# [[Arcanor/Mortuumar\|Mortuumar]]
-
-
 ### Εμφάνιση & Ικανότητες:
 
 **Φυσική Παρουσία:** Ένας πανύψηλος, γκροτέσκος γίγαντας που ξεπερνά κατά πολύ σε ύψος τα ψηλότερα δέντρα και κτίρια. Το σώμα του είναι μια φρικιαστική μάζα από συστρεφόμενα πτώματα, συγκρατούμενα από σαπισμένη σάρκα.
